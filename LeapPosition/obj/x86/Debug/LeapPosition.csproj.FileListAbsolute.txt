@@ -1,0 +1,10 @@
+C:\Users\aakar\Dropbox\VS Projects\LeapPosition\LeapPosition\bin\x86\Debug\LeapPosition.exe.config
+C:\Users\aakar\Dropbox\VS Projects\LeapPosition\LeapPosition\bin\x86\Debug\LeapPosition.exe
+C:\Users\aakar\Dropbox\VS Projects\LeapPosition\LeapPosition\bin\x86\Debug\LeapPosition.pdb
+C:\Users\aakar\Dropbox\VS Projects\LeapPosition\LeapPosition\bin\x86\Debug\GloveLibrary.pdb
+C:\Users\aakar\Dropbox\VS Projects\LeapPosition\LeapPosition\obj\x86\Debug\LeapPosition.csprojResolveAssemblyReference.cache
+C:\Users\aakar\Dropbox\VS Projects\LeapPosition\LeapPosition\obj\x86\Debug\LeapPosition.LeapPosition.resources
+C:\Users\aakar\Dropbox\VS Projects\LeapPosition\LeapPosition\obj\x86\Debug\LeapPosition.Properties.Resources.resources
+C:\Users\aakar\Dropbox\VS Projects\LeapPosition\LeapPosition\obj\x86\Debug\LeapPosition.csproj.GenerateResource.Cache
+C:\Users\aakar\Dropbox\VS Projects\LeapPosition\LeapPosition\obj\x86\Debug\LeapPosition.exe
+C:\Users\aakar\Dropbox\VS Projects\LeapPosition\LeapPosition\obj\x86\Debug\LeapPosition.pdb
